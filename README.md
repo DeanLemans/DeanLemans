@@ -4,5 +4,5 @@
 -  Sintlucas Eindhoven first year
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/enj50kao8gMfu/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/enj50kao8gMfu/giphy.gif"/>
 </div>
