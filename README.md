@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Software Development
 - 🏫 Sintlucas Eindhoven First Year.
-- 🏫 Currently working on my Ambitieproject for school <a href="(https://github.com/DeanLemans/2d-platformer-godot)">godot 2d platformer</a> 
+- 🏫 Currently working on my ambitieProject for school <a href="(https://github.com/DeanLemans/2d-platformer-godot)">godot 2d platformer</a> 
 
 
 
