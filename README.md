@@ -1,4 +1,4 @@
-### Hi there 👋
+### hello 👋
 
 - 🌱 Currently learning Software Development
 - 🏫 Sintlucas Eindhoven Eerste Jaar.
