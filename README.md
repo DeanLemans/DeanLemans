@@ -1,8 +1,8 @@
 ### hello 👋
 
 - 🌱 Currently learning Software Development
-- 🏫 Sintlucas Eindhoven Eerste Jaar.
-- 🏫 Currently working on my godot 2d platformer for school.(currently refining the game)
+- 🏫 Student at Sintlucas Eindhoven(first year)
+- 🏫 Currently working on my godot 2d platformer for school.
 
 
 
