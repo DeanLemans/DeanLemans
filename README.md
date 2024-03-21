@@ -1,4 +1,4 @@
-### hello 👋
+### Hello, I am Dean and I'm an aspiring game developer! 👋
 
 - 🌱 Currently learning Software Development
 - 🏫 Student at Sintlucas Eindhoven(first year)
