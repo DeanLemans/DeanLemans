@@ -4,7 +4,7 @@
 - 🏫 Student at Sintlucas Eindhoven(first year)
 - 🏫 Currently working on my godot 2d platformer for school.
 
-- please donate too help me on my journy on becomming a game developer: 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
+- 💵 Please donate too help me on my journy on becomming a game developer🙏🙏🙏: 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 - 👾 Play my game!: https://deanlemans.itch.io/2d-platformer-godot (does not work on firefox based browsers)
 
 <div id="header" align="center">
