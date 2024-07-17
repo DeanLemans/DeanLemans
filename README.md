@@ -1,4 +1,4 @@
-### Hello, I am Dean (16) and I'm an aspiring game developer! 👋
+### Hello, I am Dean (17) and I'm an aspiring game developer! 👋
 
 - 🌱 Currently learning Software Development
 - 🏫 Student at Sintlucas Eindhoven(first year)
