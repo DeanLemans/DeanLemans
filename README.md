@@ -1,4 +1,4 @@
-### Hello, I am Dean (17) and I'm an aspiring game developer! 👋
+### Hello, I am Dean and I'm an aspiring game developer! 👋
 
 - 🌱 Currently studying Software Development
 - 👾 Play my game!: https://deanlemans.itch.io/2d-platformer-godot
