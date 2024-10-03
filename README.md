@@ -1,6 +1,6 @@
 ### Hello, I am Dean and I'm an aspiring game developer! 👋
 
-- visit my [site!](deanlemans.github.io)
+- visit my [site!](https://deanlemans.github.io/)
   [source code](https://github.com/DeanLemans/deanlemans.github.io)
 - 🌱 Currently studying Software Development
 - 👾 Play my [game](https://deanlemans.itch.io/2d-platformer-godot)!
