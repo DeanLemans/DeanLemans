@@ -5,7 +5,7 @@
 - 🌱 Currently studying Software Development at [sintlucas](https://www.sintlucas.nl/)
 - 🔓 Interested in FOSS!
 
-- 💵 Please donate to support my journy(XMR):
+My XMR address::
 ```
 87dCcTRZPA4ZfhWYxRvCsWUynyNCAXUi2HrgrEhVPNz8HdDdFdF3X5dURNejtPSUdc3uBMZpri5D4PJqJwacXDa1AYahHQ5
 ```
