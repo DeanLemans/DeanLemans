@@ -1,5 +1,5 @@
-### Hello, I am Dean and I'm an aspiring game developer.
-#### Come visit my [Site!](https://deanlemans.github.io/)
+### Hello, I'm Dean and I like to make games in Godot. 👋
+### My [Site!](https://deanlemans.github.io/)
 
 - My [codeberg page](https://codeberg.org/deanlemans)
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
