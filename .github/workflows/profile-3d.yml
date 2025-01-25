@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@master
+      - uses: actions/checkout@4
       - uses: gumbobrot/github-profile-3d-contrib@0.7.2
         env:
           GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
@@ -24,5 +24,3 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
-    env:
-      USERNAME: DeanLemans
