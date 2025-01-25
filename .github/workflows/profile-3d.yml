@@ -1,5 +1,4 @@
 name: GitHub-Profile-3D-Contrib-fixed
-
 on:
   schedule:
     - cron: "0 8 * * *" # 07:00 CET (06:00 UTC) or 08:00 CEST (06:00 UTC)
@@ -14,7 +13,6 @@ jobs:
       - uses: actions/checkout@master
       - uses: gumbobrot/github-profile-3d-contrib@0.7.2
         env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: Pull latest changes
         run: git pull --force origin main
@@ -25,3 +23,5 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+    env:
+      USERNAME: DeanLemans
