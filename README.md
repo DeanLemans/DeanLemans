@@ -5,7 +5,7 @@
 - Interested in [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html)
 - I'm currently based in the Netherlands
 
-![](./profile-3d-contrib/profile-green-animate.svg)
+![](./profile-3d-contrib/profile-gitblock.svg)
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/enj50kao8gMfu/giphy.gif"/>
