@@ -2,7 +2,7 @@
 ### Visit my [Site!](https://deanlemans.github.io/)
 
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
-- Interested in [Open Source](https://opensource.org/osd) and [Free](https://writefreesoftware.org/learn) [Software](https://www.gnu.org/philosophy/free-sw.en.html)
+- Interested in making games in Godot
 - I'm currently based in the Netherlands
 
 ![](./profile-3d-contrib/profile-night-green.svg)
