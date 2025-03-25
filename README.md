@@ -1,5 +1,5 @@
 ## I'm Dean and I like to make games in Godot. 👋
-### Visit my [Site!](https://deanlemans.github.io/)
+### Visit my [Site!](https://deanlemans.github.io/my-site)
 
 - Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
 - Interested in making games in Godot
