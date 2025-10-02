@@ -1,8 +1,8 @@
 ## I'm Dean and I like to make games in Godot. 👋
 ### Visit my [Site!](https://deanlemans.github.io/my-site)
 
-- Currently studying Software Development at [SintLucas](https://www.sintlucas.nl/)
-- Interested in making games in Godot
+- Was studying Software Development at [SintLucas](https://www.sintlucas.nl/), but it is a bad software development so i dropped out.
+- Making software in Godot
 - I'm currently based in the Netherlands
 
 ![](./profile-3d-contrib/profile-night-green.svg)
