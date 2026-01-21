@@ -1,9 +1,11 @@
-## I'm Dean and I like to make games in Godot. 👋
+## I'm Dean and I like to fix computers, linux, and gardening.
 ### Visit my [Site!](https://deanlemans.github.io/my-site)
 
-- Was studying Software Development at [SintLucas](https://www.sintlucas.nl/), but it is a bad school for software development so i dropped out.
+- Was studying Software Development at [SintLucas](https://www.sintlucas.nl/), but they gave us painting lessons(and other weird stuff) so i dropped out.
 - Making software in Godot
-- I'm currently based in the Netherlands
+- Gardening
+- fixing computers
+- I'm currently based in the Netherlands; Brabant; Uden
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
