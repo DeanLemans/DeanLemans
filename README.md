@@ -3,7 +3,7 @@
 
 - Was studying Software Development at [SintLucas](https://www.sintlucas.nl/), but they gave us painting lessons(and other weird stuff) so i dropped out.
 - Making software in Godot
-- Gardening
+- growing plants and gardening
 - fixing computers
 - I'm currently based in the Netherlands; Brabant; Uden
 
