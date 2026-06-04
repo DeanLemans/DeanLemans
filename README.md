@@ -1,7 +1,7 @@
 ## I'm Dean and I like to fix computers, linux, and gardening.
 ### Visit my [Site!](https://deanlemans.github.io/my-site)
 
-- Was studying Software Development at [SintLucas](https://www.sintlucas.nl/), but they gave us painting lessons(and other weird stuff) so i dropped out.
+- Studied Software Development at [SintLucas](https://www.sintlucas.nl/)
 - Making software in Godot
 - growing plants and gardening
 - fixing computers
