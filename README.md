@@ -4,9 +4,9 @@
 
 - Studied Software Development at [SintLucas](https://www.sintlucas.nl/)
 - Making software in Godot
-- growing plants and gardening
-- fixing computers
-- I'm currently based in the Netherlands; Brabant; Uden
+- Growing plants and gardening
+- Fixing computers
+- I'm currently based in the Netherlands
 
 ![](./profile-3d-contrib/profile-night-green.svg)
 
@@ -15,5 +15,5 @@
 </div>
 
 #
-[All Contact Links](https://linksta.cc/@Dean)
+[Contact me!](https://linksta.cc/@Dean)
 
